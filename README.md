@@ -36,12 +36,15 @@ Implemented subqueries and common table expressions (CTEs) for complex analyses.
 
 🔍 Key Insights
 
-Timeless Names: Names like "James" and "Mary" have consistently ranked in the top 10 over multiple decades, indicating enduring popularity.
+Most Popular Names (Overall): Michael (M) and Jessica (F) were the most popular names across 1980–2019
 
-Gender Trends: There's a noticeable shift in gender-neutral names gaining popularity in recent years.
-DataCamp
+Fastest-Rising Names: Names like Skylar, Rylan, and Kyler showed dramatic ranking increases, despite not reaching top popularity overall
 
-Cultural Influences: Significant events and popular culture heavily influence naming trends, evident from spikes in certain names correlating with celebrity fame or fictional characters.
+Most Popular Names by Decade: 1980s (Michael, Christopher, Jessica), 1990s (Jacob, Joshua, Emily) and 2000s (Madison, Emma)
+
+Regional Name Preferences: Michael and Jessica were consistently top names across all U.S. regions, showing strong nationwide influence
+
+Name Diversity Trends: Name uniqueness increased yearly, peaking in 2007 with over 10,000 unique names, a shift toward personalized or unique baby names
 
 📁 Repository Structure
 
